@@ -1,5 +1,5 @@
 ## API Overview
-Note: The HigherGov API will be released in December 2022.
+Note: The HigherGov API will be released in March 2023.
 
 The HigherGov API is the most comprehensive source of U.S. federal government contract and grant opportunity and award data generated from public and proprietary sources.  The API is easy to use and is fully supported with email, chat, and phone support.  Currently, 300+ of the most popular fields are available through the API out of 5000+ datapoints tracked by HigherGov. HigherGov Business Development users can also access their pursuits via the API. If you require additional data not covered by our API, please do not hesitate to reach out.  
 
@@ -12,7 +12,9 @@ The HigherGov API is the most comprehensive source of U.S. federal government co
 | **Prime Grant Awards**            | 4M+ |
 | **Subgrant Awards**            | 3M+ |
 | **Contract Vehicles**            | 4K+|
-| **Contract Opportunities**        | 4M+|
+| **Federal Contract Opportunities**        | 4M+|
+| **DLA Contract Opportunities**        | 1M+|
+| **SLED Contract Opportunities**        | 1M+|
 | **Pre-RFP Contract Opportunities** | 20K+|
 | **Grant Opportunities**           | 60K+|
 | **SBIR Opportunities**           | 10K+|
