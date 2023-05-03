@@ -1,6 +1,4 @@
 ## API Overview
-Note: The HigherGov API is available on an inivite-only basis.
-
 The HigherGov API is the most comprehensive source of U.S. federal government contract and grant opportunity and award data generated from public and proprietary sources.  The API is easy to use and is fully supported with email, chat, and phone support.  Currently, 300+ of the most popular fields are available through the API out of 5000+ datapoints tracked by HigherGov. HigherGov Business Development users can also access their pursuits via the API. If you require additional data not covered by our API, please do not hesitate to reach out.  
 
 | Endpoint                            | Coverage                                                                                |
@@ -29,13 +27,10 @@ The HigherGov API is the most comprehensive source of U.S. federal government co
 | **Pursuits**                      | User specific |
 
 ## API Access
-The API is available to all HigherGov subscribers https://www.highergov.com. If you are a subscriber, you can see your API access code within your User Profile menu. Note that if you are not the Administrator of your account, your administrator must first turn on access to the API.
+Access to the HigherGov API is on an invite-only basis for HigherGov subscribers. Please contact support re
 
 ## Quick Search Endpoints
 To help enable search and dropdown functions within your applications, we also offer access to the APIs that drive HigherGov's Quick Search capabilities.  These API endpoints are avaialable for free to all subscribers.
-
-## Documentation
-Please note that the API is in a closed Beta and documentation will not be publicly available until that time. 
 
 ## Data Freshness
 Data is generally updated shortly after the underlying data source.  Some examples are shown below. 
